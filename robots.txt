@@ -1,4 +1,0 @@
-# robotstxt.org/
-
-User-agent: *
-changes in the robots.txt
