@@ -3,6 +3,7 @@
 <cross-domain-policy>
     <!-- Read this: www.adobe.com/devnet/articles/crossdomain_policy_file_spec.html -->
 <!-- comment1 in master branch-->
+<!-- comment 2 in master branch -->
 
     <!-- Most restrictive policy: -->
     <site-control permitted-cross-domain-policies="none"/>
