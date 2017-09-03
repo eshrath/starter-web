@@ -15,6 +15,6 @@ Further changes.
 # Adding Copyright
 More changes 2
 More changes 3
-
+Changes realted to NHC-506 in README.md
 Further changes:w
 
